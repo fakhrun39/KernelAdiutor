@@ -1,6 +1,6 @@
 # KernelAdiutor
 
-[![Build Status](https://travis-ci.org/fakhurn39/Laravel-TDD.svg?branch=master)](https://travis-ci.org/fakhrun39)
+[![![Build Status](https://travis-ci.com/fakhrun39/KernelAdiutor.svg?branch=master)](https://travis-ci.com/fakhrun39/KernelAdiutor)
 [![Crowdin](https://d322cqt584bo4o.cloudfront.net/kernel-adiutor/localized.png)](https://crowdin.com/project/kernel-adiutor)
 
 * [Join Google+ Community](https://plus.google.com/communities/108445529270785762340) (Beta Testing)
